@@ -1,0 +1,3 @@
+pip install sounddevice
+zros
+libcublas.so.12
